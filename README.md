@@ -1,3 +1,3 @@
 # Golang
 
-My journey learning Go programming language
+My journey learning the Go programming language
